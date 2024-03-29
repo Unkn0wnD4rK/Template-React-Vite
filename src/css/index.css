@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "neontubes";
+    font-style: normal;
+    font-weight: normal;
+    src: url("https://bitbucket.org/kennethjensen/webfonts/raw/fc13c1cb430a0e9462da56fe3f421ff7af72db71/neontubes/neontubes-webfont.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Goldman";
+    font-style: normal;
+    font-weight: normal;
+    src: url(https://cdn.jsdelivr.net/fontsource/fonts/goldman@latest/latin-400-normal.woff2) format("woff2");
+}
+
+@font-face {
+    font-family: "VT323";
+    font-style: normal;
+    font-weight: normal;
+    src: url(https://cdn.jsdelivr.net/fontsource/fonts/vt323@latest/latin-400-normal.woff2) format("woff2");
+}
+
+@font-face {
+    font-family: 'Caveat Brush';
+    font-style: normal;
+    font-weight: normal;
+    src: url(https://cdn.jsdelivr.net/fontsource/fonts/caveat-brush@latest/latin-400-normal.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Indie Flower';
+    font-style: normal;
+    font-weight: normal;
+    src: url(https://cdn.jsdelivr.net/fontsource/fonts/indie-flower@latest/latin-400-normal.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Rajdhani';
+    font-style: normal;
+    font-weight: normal;
+    src: url(https://cdn.jsdelivr.net/fontsource/fonts/rajdhani@latest/latin-400-normal.woff2) format('woff2');
+}
